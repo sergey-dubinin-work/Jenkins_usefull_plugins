@@ -4,3 +4,4 @@ Post build task\
 Text File Operations\
 EnvInject Plugin\
 Environment Injector Plugin\
+HTTP Request\
