@@ -2,6 +2,6 @@
 Allure\
 Post build task\
 Text File Operations\
-EnvInject Plugin\
-Environment Injector Plugin\
+EnvInject API\
+Environment Injector\
 HTTP Request\
